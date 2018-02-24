@@ -38,4 +38,11 @@ Fastest method to push a static html page online that I know of: https://pages.g
 
 1. Create a github account (if you don't already have one)
 2. Create a repository called username.github.io (where username is your github username)
-3. `https://github.com/sutantyo/sutantyo.github.io.git`
+3. Install git, if you don't have it yet (you really should)
+4. `git clone https://github.com/username/username.github.io.git`
+5. Add an `index.html` file inside the `username.github.io.git` folder
+6. `git add index.html`
+7. `git commit -m "first commit"`
+8. `git push origin master`
+9. go to username.github.io
+
