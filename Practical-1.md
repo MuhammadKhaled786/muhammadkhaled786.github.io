@@ -1,4 +1,4 @@
-## Checkpoint: contribution to shared timeline
+### Checkpoint: contribution to shared timeline
 
 ## Task 1: Web Page Design
 
