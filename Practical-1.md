@@ -48,3 +48,6 @@ Fastest method to push a static html page online that I know of: https://pages.g
 8. `git push origin master`
 9. go to username.github.io
 
+## Extra stuffs:
+1. Get started on PyCharm and bottle.py (http://bottlepy.org/bottle.py)
+2. http://codingbat.com/python
