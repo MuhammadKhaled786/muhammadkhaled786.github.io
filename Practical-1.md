@@ -3,7 +3,7 @@
 ## Task 1: Web Page Design
 
 **Bad points:**
-<!--->
+<!--- --->
 1. No database used, so data may become inconsistent
 2. No pagination and some pages can be very long
 3. No way to sort some of the data
@@ -12,19 +12,23 @@
 5. Each ship name is a gif
 6. Clicking on picture leads to another html page
 7. Lots of broken links (http://irishwrecksonline.net/details/Chirripo150.htm, click on wreck list)
-<--->
+<!--- --->
+
 **Good points:**
+<!--- --->
 1. Contains a huge amount of data about shipwrecks
 2. Data is organised according to several categories (location, county, name, latest update)
 3. We can search the whole website (using sitelevel)
 4. Interactive map
+<!--- --->
 
 **Re-design**
+<!--- --->
 Some questions I would ask the site owner, if I were asked to redesign the website:
 1. The webpage seems like a nightmare to maintain, can we use some sort of framework that automatically creates pages, or even better, a single page application?
 2. Can we use a database to ensure data consistency?
 3. Can we update the map (e.g. use google map overlay) and use latitude longitude. 
-
+<!--- --->
 <!--- https://www.youtube.com/watch?v=4T5KZFUw7Y8 --->
 Demonstrations:
 - http://glittershark.github.io/reactable/
