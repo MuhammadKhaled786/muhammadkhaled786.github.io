@@ -29,16 +29,15 @@ Demonstrations:
 
 ## Task 2: 
 
-URL for 
+URL for each practical session will show here:
 
 <!--- https://docs.google.com/spreadsheets/d/1rITg1dMFxiWvyqS7yiB0EAdHsIMDSy3JKpd4eluPMAM/edit?usp=sharing --->
-
 <!--- https://docs.google.com/spreadsheets/d/13ah9vGCjvwVBv19lz75YDn5uJcxFYcmAtMPqkBk0qkY/edit?usp=sharing --->
-
 <!--- https://docs.google.com/spreadsheets/d/1FohWsxPJcjo-gw9xAb4m7kvPQ0YnVBpDaoLBn95FVVc/edit?usp=sharing --->
 
-Fastest method to push a static html page online that I know of: https://pages.github.com/
+## Task 3:
 
+Fastest method to push a static html page online that I know of: https://pages.github.com/
 1. Create a github account (if you don't already have one)
 2. Create a repository called username.github.io (where username is your github username)
 3. Install git, if you don't have it yet (you really should)
