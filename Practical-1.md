@@ -1,3 +1,5 @@
+## Checkpoint: contribution to shared timeline
+
 ## Task 1: Web Page Design
 
 Bad points:
@@ -37,17 +39,28 @@ URL for each practical session will show here:
 
 ## Task 3:
 
-Fastest method to push a static html page online that I know of: https://pages.github.com/
+If you are keen, and you haven't done this sort of stuff before, you can easily host your page online using github. It means that you have to install git (comes preinstalled if you use a Mac), but this is something you will do anyway one day.
+
+I think this is the fastest free method to push a single static html page online. Let me know if you know something faster. Main reference is at https://pages.github.com/
+
 1. Create a github account (if you don't already have one)
 2. Create a repository called username.github.io (where username is your github username)
-3. Install git, if you don't have it yet (you really should)
+3. Install git, if you don't have it yet
 4. `git clone https://github.com/username/username.github.io.git`
-5. Add an `index.html` file inside the `username.github.io.git` folder
+5. Go inside `username.github.io.git` folder and add an `index.html` file
 6. `git add index.html`
 7. `git commit -m "first commit"`
 8. `git push origin master`
 9. go to username.github.io
 
-## Extra stuffs:
+## Extras:
+
 1. Get started on PyCharm and bottle.py (http://bottlepy.org/bottle.py)
 2. http://codingbat.com/python
+3. 
+
+## Resources:
+
+For webpage design: 
+- https://htmlcolorcodes.com/color-names/
+- http://www.csszengarden.com/
