@@ -12,7 +12,10 @@
 - useful site for standard colours: https://htmlcolorcodes.com/color-names/
 - nice collection of css layouts for inspiration: http://www.csszengarden.com/
 
-### Javascript 
+### Javascript
 
 - nice course on javascript: https://www.codeschool.com/learn/javascript
+
+### Advanced Javascript (**warning**: NOT for 249)
+- http://exploringjs.com/es2016-es2017.html
 - a very advanced collection of book on javascript, definitely too advanced for 249, but some of you might be interested: https://github.com/getify/You-Dont-Know-JS
