@@ -64,6 +64,7 @@ I think this is the fastest free method to push a single static html page online
 1. Get started on PyCharm and bottle.py (http://bottlepy.org/bottle.py)
 2. http://codingbat.com/python
 3. HTML5 course on Lynda: https://www.lynda.com/HTML-tutorials/Welcome/182177/370804-4.html
+4. https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f
 
 ## Resources:
 
